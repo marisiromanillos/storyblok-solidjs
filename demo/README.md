@@ -2,7 +2,7 @@
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
 
-## Creating a project
+## mCreating a project
 
 ```bash
 # create a new project in the current directory
